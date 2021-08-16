@@ -1,0 +1,2 @@
+Projeto desenvolvido para o Bootcamp da Digital Innovation One, cujo o intuito é implementar testes no projeto Vaquina Online.
+O mesmo já havia sido implementado pelo esxpert de sofware que ministrou o treinamento.
